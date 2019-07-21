@@ -16,7 +16,7 @@ To run the application, please, read the next instructions:
 
 Inside of the database directory, there is a file "fileRute.bbdd" that contains the path and the name of the file 
 where the application save the information of the ten last days. If the file with the information is not exists, 
-then the application will create the file by first time. 
+then the application will create the file by first time only if you has created first the directory with name "data". 
 
 Inside of the main directory, you need to have the files type cs with all the information, 
 the name of file should contain the name of the backup server. Besides you need change in the code, the name of the backups servers. 
